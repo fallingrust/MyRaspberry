@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32408.312
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaspberryForDTH11", "RaspberryForDTH11\RaspberryForDTH11.csproj", "{D1FE64E7-A18B-4500-8E7E-A14B132BB211}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaspberryForFanControl", "RaspberryForFanControl\RaspberryForFanControl.csproj", "{54B000DB-A762-4438-A35B-FA0F20E4BBCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1FE64E7-A18B-4500-8E7E-A14B132BB211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1FE64E7-A18B-4500-8E7E-A14B132BB211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1FE64E7-A18B-4500-8E7E-A14B132BB211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1FE64E7-A18B-4500-8E7E-A14B132BB211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54B000DB-A762-4438-A35B-FA0F20E4BBCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B000DB-A762-4438-A35B-FA0F20E4BBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54B000DB-A762-4438-A35B-FA0F20E4BBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54B000DB-A762-4438-A35B-FA0F20E4BBCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D91EA84-7334-4520-B3C0-CD3745830EE5}
+	EndGlobalSection
+EndGlobal
