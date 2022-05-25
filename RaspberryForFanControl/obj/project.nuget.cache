@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BQk3ssrQF8Vc2wWBkj7k+0bsvtEq6npZrrkVzGzOgiGd8Jgf46UdQz2L5hfyT/wlmmD0EaJZZdDAaonQ6rbHGQ==",
+  "dgSpecHash": "LZBX1n8ihua+f866J/KqE91Ae8XNC9QUsxEI5eaECnXDkXjciWyCVtYoK4jiVgGIGC6RtxwJv1n7yRCT5tmUKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\666\\source\\repos\\MyRaspberry\\RaspberryForFanControl\\RaspberryForFanControl.csproj",
+  "projectFilePath": "/home/ubuntu/workspace/MyRaspberry/RaspberryForFanControl/RaspberryForFanControl.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

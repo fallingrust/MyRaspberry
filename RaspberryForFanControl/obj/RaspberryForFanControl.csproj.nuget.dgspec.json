@@ -1,33 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\666\\source\\repos\\MyRaspberry\\RaspberryForFanControl\\RaspberryForFanControl.csproj": {}
+    "/home/ubuntu/workspace/MyRaspberry/RaspberryForFanControl/RaspberryForFanControl.csproj": {}
   },
   "projects": {
-    "C:\\Users\\666\\source\\repos\\MyRaspberry\\RaspberryForFanControl\\RaspberryForFanControl.csproj": {
+    "/home/ubuntu/workspace/MyRaspberry/RaspberryForFanControl/RaspberryForFanControl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\666\\source\\repos\\MyRaspberry\\RaspberryForFanControl\\RaspberryForFanControl.csproj",
+        "projectUniqueName": "/home/ubuntu/workspace/MyRaspberry/RaspberryForFanControl/RaspberryForFanControl.csproj",
         "projectName": "RaspberryForFanControl",
-        "projectPath": "C:\\Users\\666\\source\\repos\\MyRaspberry\\RaspberryForFanControl\\RaspberryForFanControl.csproj",
-        "packagesPath": "C:\\Users\\666\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\666\\source\\repos\\MyRaspberry\\RaspberryForFanControl\\obj\\",
+        "projectPath": "/home/ubuntu/workspace/MyRaspberry/RaspberryForFanControl/RaspberryForFanControl.csproj",
+        "packagesPath": "/home/ubuntu/.nuget/packages/",
+        "outputPath": "/home/ubuntu/workspace/MyRaspberry/RaspberryForFanControl/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "E:\\Visual Studio\\vs_Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\666\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ubuntu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://aka.ms/maui-preview/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300-preview.22204.3\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/ubuntu/.dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
         }
       }
     }
