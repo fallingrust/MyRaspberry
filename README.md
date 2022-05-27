@@ -1,3 +1,4 @@
-# DTH11Demo
-dotnet raspberry pi  gpio  DTH11
-使用dotnet 5 读取树莓派GPIO DTH11 传感器数据
+1.RaspberryForDTH11
+  从DTH11传感器读取温湿度
+2.RaspberryForFanControl
+  温度监控，控制风扇启停
